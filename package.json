@@ -1,4 +1,5 @@
 {
+  "name":"requirejs-less",
   "volo": {
     "type": "directory"
   }
