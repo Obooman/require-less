@@ -1,5 +1,23 @@
 {
-  "volo": {
-    "type": "directory"
-  }
+  "name": "require-less",
+  "version": "0.7.0",
+  "description": "require-less ===========",
+  "main": "less-builder.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Obooman/require-less.git"
+  },
+  "keywords": [],
+  "author": "oboo chin <cheng.12@live.cn> (github.com/obooman)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Obooman/require-less/issues"
+  },
+  "homepage": "https://github.com/Obooman/require-less#readme"
 }
